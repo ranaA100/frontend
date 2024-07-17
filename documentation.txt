@@ -1,0 +1,1 @@
+An engaging and interactive landing page for Car Mania - A service that includes -> 1.LEARN DRIVING CARS, 2. GET RENTED SUPERCARS.It incorporates animations, transitions, and user engagement elements.We have a notification section which is used for inform users about any festival related to cars. This website is completely made of HTML,CSS,JAVASCRIPT.
